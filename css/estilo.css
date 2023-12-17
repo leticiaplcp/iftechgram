@@ -1,0 +1,199 @@
+body{ 
+
+    background-color: black; 
+    
+    margin: 0px; 
+    
+    font-family: arial; 
+    
+    } 
+    
+    #cabecalho{ 
+    
+    background-color: #AF546C; 
+    
+    width: 100%; 
+    
+    height: 120px; 
+    
+    } 
+    
+    #cabecalho img{ 
+    
+    width: 180px; 
+    
+    position: absolute; 
+    
+    padding-left: 44%; 
+    
+    align-items: center; 
+    
+    } 
+    
+    #foto-perfil img{ 
+    
+    width: 180px; 
+    
+    margin-left: 25%; 
+    
+    margin-top: 15px; 
+    
+    border-radius: 50%; 
+    
+    } 
+    
+    p{ 
+    
+    color: #FFDDEF; 
+    
+    margin-left: 37%; 
+    
+    margin-top: -190px; 
+    
+    font-size: 200%; 
+    
+    text-shadow: 3px 3px 4px #EFA8C7; 
+    
+    } 
+    
+    #numeros{ 
+    
+    float: left; 
+    
+    margin-left: 40%; 
+    
+    margin-top: -45px; 
+    
+    height: 150px; 
+    
+    margin-right: 300px; 
+    
+    } 
+    
+    .perfil{ 
+    
+    float: left; 
+    
+    text-align: center; 
+    
+    padding: 0px 85px 0px 0px; 
+    
+    } 
+    
+    .perfil h1{ 
+    
+    color: white; 
+    
+    font-size: 300%; 
+    
+    } 
+    
+    .perfil h4{ 
+    
+    color: #EFA8C7; 
+    
+    margin-top: -30px; 
+    
+    } 
+    
+    #area{ 
+    
+    height: 600px; 
+    
+    width: 493px; 
+    
+    margin-left: 580px; 
+    
+    margin-right: 300px; 
+    
+     
+    
+    } 
+    
+    .fileira, .fileira3{ 
+    
+    float: left; 
+    
+    overflow: hidden; 
+    
+    } 
+    
+    .fileira2{ 
+    
+    float: right; 
+    
+    overflow: hidden; 
+    
+    } 
+    
+    .fileira img, .fileira2 img, .fileira3 img{ 
+    
+    padding: 7px 7px 7px 7px; 
+    
+    width: 150px; 
+    
+    border-radius: 11px; 
+    
+     
+    
+    } 
+    
+    .fileira:hover, .fileira2:hover, .fileira3:hover{ 
+    
+    -webkit-transform: scale(1.03); 
+    
+    -webkit-transition: -webkit-transform .20s ease; 
+    
+    } 
+    
+     
+    
+    .fileira:active, .fileira2:active, .fileira3:active{ 
+    
+    -webkit-transform: scale(2.80); 
+    
+    -webkit-transition: -webkit-transform .50s ease; 
+    
+    } 
+    
+    #rodape{ 
+    
+    background-color: #AF546C; 
+    
+    width: 100%; 
+    
+    height: 120px; 
+    
+    margin-top: 20px; 
+    
+    } 
+    
+    h2{ 
+    
+    text-align: center; 
+    
+    padding-top: 35px ; 
+    
+    text-shadow: 2px 2px 3px #EFA8C7; 
+    
+    } 
+    
+    a:link{ 
+    
+    color: black;; 
+    
+    text-decoration: none; 
+    
+    } 
+    
+    a:visited{ 
+    
+    color: black; 
+    
+    } 
+    
+    a:active{ 
+    
+    color:black ; 
+    
+    } 
