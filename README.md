@@ -1,3 +1,5 @@
 # Iftechgram
-Site criado para passar elementos basicos de front-end em uma oficina no evento EXATECCA do IFSP Guarulhos. A proposta do site era reproduzir o layout do instagram do projeto "Meninas na Programação" de forma simplificada.
+Site criado para apresentar elementos básicos de front-end em uma oficina durante o evento EXATECCA do IFSP Guarulhos. A proposta era reproduzir, de forma simplificada, o layout do Instagram do projeto "Meninas na Programação".
+
+![image](https://github.com/user-attachments/assets/d6d18849-3f4b-4f92-8bdd-90d7236265bc)
 
